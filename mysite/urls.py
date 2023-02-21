@@ -21,3 +21,5 @@ urlpatterns = [
     path('bbs/', include('bbs.urls')),
     path('', include('blog.urls')),
 ]
+
+
